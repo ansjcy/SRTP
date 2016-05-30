@@ -1,0 +1,1 @@
+[Info]ID=1234NAME=浙江大学曹光彪东一楼ASDLIST=1-7:曹东1楼;2-8:曹东1楼;3-9:曹东1楼;[DataServer]INTERN_IP=10.214.47.69EXTERN_IP=10.214.47.70[SYSTEM]DELAY=100TIMEOUT=60[PollTime]OneRound=30
